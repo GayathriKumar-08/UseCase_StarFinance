@@ -1,0 +1,55 @@
+.emibox
+{
+    border:2px solid #158fad;
+    margin-top: 120px;
+    padding:30px;
+    width:500px;
+}
+.emibox1
+{
+
+    background-color: #e8f09e;
+    margin-top: 150px;
+    padding:30px;
+    width:500px;
+    margin-left:-100px;
+}
+.emitxt
+{
+    width:400px;
+    border:none;
+    border-bottom:1px solid #158fad;
+    font-weight: bold;
+}
+.emitxt:focus
+{
+    outline: none;
+}
+.emical
+{
+    padding:5px;
+    background-color: #158fad;
+    color:white;
+    border-radius: 5px;
+    margin-left: 150px;
+    width: 100px;
+}
+.emihead
+{
+   color:#158fad;
+   /* margin-left:10px; */
+}
+.emihead1
+{
+    color:#158fad;
+    margin-left:30px;
+}
+.emilist
+{
+    font-weight: bold;
+}
+.emicolor
+{
+    font-size: 20px;
+    color:red
+}

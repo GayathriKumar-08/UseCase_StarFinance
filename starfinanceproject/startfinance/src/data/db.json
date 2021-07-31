@@ -1,0 +1,40 @@
+{
+  "emplogin": [
+    {
+      "empid": "ST101",
+      "emppass": "emp101"
+    },
+    {
+      "empid": "ST102",
+      "emppass": "emp102"
+    },
+    {
+      "empid": "ST103",
+      "emppass": "emp103"
+    },
+    {
+      "empid": "ST104",
+      "emppass": "emp104"
+    }
+  ],
+  "fileupload": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "register": {
+    "uname": "gayathri",
+    "email": "gayu48@gmail.com",
+    "pass": "gayu48",
+    "cpass": " "
+  }
+}

@@ -1,0 +1,24 @@
+.rule{
+    padding:20px;
+    margin-top: 60px;   
+    width:1000px;
+    margin-left: 40px;
+}
+p
+{
+    color: rgb(10, 50, 126);
+}
+.ptagbold
+{
+    font-weight: bold;
+}
+h3{
+    color:rgb(10, 50, 126);
+}
+.colorword
+{
+    color:rgb(10, 50, 126)
+}
+ul,li{
+    list-style: none;
+}

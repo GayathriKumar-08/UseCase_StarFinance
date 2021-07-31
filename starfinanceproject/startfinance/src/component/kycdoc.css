@@ -1,0 +1,24 @@
+.doc
+{
+    margin-top: 30px;
+    border:1px solid #158fad;
+    padding:20px;
+    width: 700px;
+    margin-left: 100px;
+}
+.t1
+{
+    color:#158fad;
+    margin-top: 50px;
+    margin-left:100px;
+}
+.docline
+{
+    margin-left:100px;
+}
+.licol
+{
+    color:#158fad;
+    font-size: 16px;   
+    font-weight: bold;
+}

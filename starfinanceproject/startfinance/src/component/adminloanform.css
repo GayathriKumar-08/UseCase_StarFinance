@@ -1,0 +1,69 @@
+.apploan
+{
+    width:400px;
+    margin-top: 150px;
+    margin-left:600px;
+    padding:5px;
+    background-color: #158fad;
+    color:white;
+    border-radius: 10px;
+    border:none;
+}
+.apploan:hover
+{
+    width:400px;
+    margin-top: 150px;
+    margin-left:600px;
+    padding:5px;
+    background-color: #15d696;
+    color:white;
+    border-radius: 10px;
+    border:none;
+}
+.button123
+{
+    background-color: crimson;
+    color:white;
+}
+.adview
+{
+    margin-top: 30px;
+    text-align: center;
+    color:#158fad
+}
+
+.tabfor,.the1,.tb1
+{
+    margin-top: 80px;
+    margin-left: 550px;
+    border: 1px solid #158fad;
+    padding:5px;
+    width:400px;
+}
+
+.tabform,.the,.tb
+{
+    border: 1px solid #158fad;
+}
+.apploan1
+{
+    width:300px;
+    margin-top: 150px;
+    margin-left:600px;
+    padding:5px;
+    background-color: #158fad;
+    color:white;
+    border-radius: 10px;
+    border:none;
+}
+.apploan1:hover
+{
+    width:300px;
+    margin-top: 150px;
+    margin-left:600px;
+    padding:5px;
+    background-color: #15d696;
+    color:white;
+    border-radius: 10px;
+    border:none;
+}

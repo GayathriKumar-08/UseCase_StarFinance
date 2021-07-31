@@ -1,0 +1,41 @@
+.table1,.thead,.td1
+{
+   border: 2px solid #158fad;
+   padding: 5px;
+   text-align: center;
+}
+.table1 {
+    border-collapse: collapse;
+    width: 100%;
+}
+ 
+.thead, .td1 {
+    text-align: left;
+    padding: 8px;
+}
+ 
+.trow:nth-child(even) {
+    background-color: rgb(191, 235, 191);
+}
+.tableright
+{
+    border: 1px solid #158fad;
+     /* margin-top:-80px;  */
+    margin-left: 40px;
+    background-color: #cbebf3;
+    padding:10px;
+    width:450px;
+}
+.starbox
+{
+    font-weight: bold;
+}
+.title
+{
+    margin-top:60px;
+    margin-left: 35px;
+    font-size: 25px;
+    font-weight: bold;
+    color:coral
+}
+ 

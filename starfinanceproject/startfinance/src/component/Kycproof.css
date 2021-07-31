@@ -1,0 +1,47 @@
+.tname,.thea,.tb,.tdd,.thh{
+    border: 1px solid #158fad;
+    padding:8px;
+    width:800px;
+    margin-left: 150px;
+    text-align: center;
+}
+.proofview
+{
+    margin-top: 100px;
+}
+
+.mailbox
+{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.mbox
+{
+    width: 300px;
+}
+.mbtn
+{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 300px;
+    background-color: #158fad;
+    color:white;
+    padding:5px;
+    border:none;
+}
+.linkmsg{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.aproof
+{
+    margin-left: 400px;
+    color:#158fad;
+}
+.sendmsg
+{
+    background-color: #158fad;
+    color:white;
+    border: none;
+    width:80px;
+}
