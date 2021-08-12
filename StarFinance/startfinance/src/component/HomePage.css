@@ -1,0 +1,58 @@
+.classtop{
+    margin-top:10px;
+}
+.background
+{
+    background-color: #000066;
+}
+.paratag1
+{
+         color:white;
+         margin-top: 60px;
+         margin-left: 150px;
+}
+.loanimg1
+{
+    width: 600px;
+    height: 400px;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .container .btnic {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container .btn:hover {
+    background-color: black;
+  }
+  .buttonimage
+  {
+      margin-top:40px;
+      margin-left: 300px;
+  }
+  .imgbutn
+  {
+      width: 40px;
+      height: 40px;
+  }
